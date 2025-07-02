@@ -1,18 +1,19 @@
-# README
 # Hallo, ich bin Hilal Alparslan
- Ich bin ein motivierter IT-Einsteiger mit besonderem Interesse an Microsoft Azure, Netzwerktechnologien und Cloud-Computing. Durch Zertifikate und eigene Projekte erweitere ich stetig mein Wissen.
+Ich bin ein motivierter IT-Einsteiger mit großem Interesse an Microsoft Azure, Netzwerktechnologien und Cloud-Computing. Zurzeit baue ich meine praktischen Kenntnisse durch Zertifikate, Projekte und kontinuierliches Lernen weiter aus.
 ---
-## Zertifikate- **AZ-900: Microsoft Azure Fundamentals**- **AZ-800: Windows Server Hybrid Core Infrastruktur verwalten**- **AZ-801: Windows Server Hybrid erweiterte Dienste konfigurieren**- **Business English & General English (B1/B2 Niveau)**- **Grundlagen der Netzwerktechnik (Netzwerkgrundlagen)**
+## Zertifikate
+- Microsoft Azure Fundamentals (AZ-900)- Administering Windows Server Hybrid Core Infrastructure (AZ-800)- Configuring Windows Server Hybrid Advanced Services (AZ-801)- Business English & General English (B1/B2)- Netzwerkgrundlagen
 ---
-## Technologien & Tools- Microsoft Azure (VMs, Virtual Network, Storage, Web App Services)- Windows Server & Active Directory- Netzwerktechnik (IP-Adressen, DNS, DHCP, VPN)- PowerShell- Git & GitHub
+## Kenntnisse & Tools
+- Azure Virtual Network, Storage, VMs, App Services  - Windows Server & Active Directory  - Netzwerkprotokolle: IP, DNS, DHCP, VPN  - PowerShell (Grundlagen)  - Git & GitHub
 ---
-## Projekte
-### Azure Virtual Network Demo   Aufbau eines virtuellen Netzwerks mit Subnetzen, NSGs (Network Security Groups) und Routing-Regeln   [Hier Link zum Repository einfügen]
+## Eigene Projekte (Auswahl)
+| Projektname              | Beschreibung                                      ||--------------------------|--------------------------------------------------|| **azure-vnet-demo**      | Aufbau eines Azure Virtual Networks mit Subnetzen und NSGs || **blob-backup-script**   | Backup-Skript mit Azure Blob Storage             || **static-website-azure** | Hosting einer einfachen Website in Azure         |
+ → Detaillierte Projekte findest du in meinen öffentlichen Repositories!
 ---
-### Azure Blob Storage Backup   Projekt zur Sicherung von Dateien mit Azure Blob Storage (inkl. Zugriffsrechte & Lifecycle Policies)   [Hier Link zum Repository einfügen]
+## Kontakt
+- E-Mail: alparslanhilal38@gmail.com  - LinkedIn: (www.linkedin.com/in/hilal-alparslan-34b2ab367)  - GitHub: [github.com/Hilal-Alparslan](https://github.com/Hilal-Alparslan)
 ---
-### Statische Website auf Azure   Deployment einer einfachen HTML-Website über Azure App Service & Azure Storage   [Hier Link zum Repository einfügen]
----
-## Kontakt   E-Mail: alparslanhilal38@gmail.com   LinkedIn: [linkedin.com/in/deinProfilname](https://linkedin.com/in/deinProfilname)   GitHub: [github.com/deinBenutzername](https://github.com/deinBenutzername)
----
-> *"Ich habe noch keine Berufserfahrung – aber ich habe einen klaren Willen, zu lernen und mich weiterzuentwickeln."*
+> *"Ich habe vielleicht noch keine Berufserfahrung, aber ich habe den Willen, jeden Tag besser zu werden."*  > *"Lernen ist mein Job – bis ich meinen Job gefunden habe."*
+
+
